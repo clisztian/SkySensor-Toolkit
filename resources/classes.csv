@@ -1,0 +1,132 @@
+Nr:,Class Symbol,Class Symbol Addon,Role,Type,Indentification,Real,Simulated,Class,Creator
+100,Fixed Wing,Fighter Jet,Attack,F/A 18,Friend,x,x,0,Guido
+101,Fixed Wing,Fighter Jet,Attack,F-4 Phatom,Unkown,x,,,
+102,Fixed Wing,Fighter Jet,Air Supriority,F-5,Friend,x,,1,Guido
+103,Fixed Wing,Fighter Jet,Air Supriority,F-15,Unkown,,x,,
+104,Fixed Wing,Fighter Jet,Attack,F-16,Unkown,,x,2,Guido
+105,Fixed Wing,Fighter Jet,Air Supriority,F-22,Unkown,,,,
+106,Fixed Wing,Fighter Jet,Multirole,F-35 A/B/C,Unkown,,,,
+107,Fixed Wing,Fighter Jet,Multirole,JAS Gripen,Unkown,,,,
+108,Fixed Wing,Fighter Jet,Multirole,Eurofighter Typhoon,Unkown,x,,,
+109,Fixed Wing,Fighter Jet,Attack,Tornado,Unkown,,,,
+110,Fixed Wing,Fighter Jet,Multirole,Dausalt Rafael,Unkown,,,,
+111,Fixed Wing,Fighter Jet,Attack,A10 Thunderbolt,Unkown,,,,
+112,Fixed Wing,Military Propeller,Gunship,AC-130 Stinger,Unkown,,,,
+113,Fixed Wing,Military Jet,Bomber,B-52 Stratofortress,Unkown,,,,
+114,Fixed Wing,Military Jet,Bomber,B-1 Lancer,Unkown,,,,
+115,Fixed Wing,Military Jet,Bomber,B-2 Spirit,Unkown,,,,
+116,Fixed Wing,Military Jet,Transport,C-17A Globmaster,Unkown,,,,
+117,Fixed Wing,Military Propeller,Transport,C-130H Hercules,Unkown,,x,,
+118,Fixed Wing,Military Jet,Transport,C-5M Super Galaxy,Unkown,,x,,
+119,Fixed Wing,Military Jet,Attack,AV-8B/+ Harrier II,Unkown,,,,
+120,Fixed Wing,Military Propeller,Transport,Antonov An-12,Foe,,,,
+121,Fixed Wing,Military Propeller,Transport,Antonov An-124,Foe,,,,
+122,Fixed Wing,Military Propeller,Transport,Ilyushin Il-18/20/22,Foe,,,,
+123,Fixed Wing,Military Propeller,Transport,Ilyushin Il-76,Foe,,,,
+124,Fixed Wing,Fighter Jet,Multirole,MiG-29,Foe,x,x,3,Guido
+125,Fixed Wing,Fighter Jet,Air Supriority,MiG-31,Foe,,,4,Guido
+126,Fixed Wing,Fighter Jet,Multirole,MiG-35,Foe,,,,
+127,Fixed Wing,Fighter Jet,Attack,Su-24,Foe,,x,,
+128,Fixed Wing,Fighter Jet,Attack,Su-25,Foe,,x,,
+129,Fixed Wing,Fighter Jet,Air Supriority,Su-27,Foe,,x,5,Guido
+130,Fixed Wing,Fighter Jet,Attack,Su-30,Foe,,,,
+131,Fixed Wing,Fighter Jet,Attack,Su-34,Foe,,,,
+132,Fixed Wing,Fighter Jet,Multirole,Su-35S,Foe,,,,
+133,Fixed Wing,Military Jet,Bomber,Tu-22M,Foe,,,,
+134,Fixed Wing,Military Propeller,Bomber,Tu-95,Foe,,,,
+135,Fixed Wing,Military Jet,Bomber,Tu-160,Foe,,,,
+136,Fixed Wing,Military Jet,Attack,Chengdu J-7 (MiG-21),Foe,,,,
+137,,,,MiG-27,,,,6,Guido
+,,,,,,,,,
+200,Rotary Wing,Military Helikopter,Attack/Transport,Mi-8/Mi-17,Foe,,x,,
+201,Rotary Wing,Military Helikopter,Attack,Mi-24/35 (Hind),Foe,,x,,Philipp
+202,Rotary Wing,Military Helikopter,Transport,Mi-26,Foe,,,,
+203,Rotary Wing,Military Helikopter,Attack,Mi-28,Foe,,,,
+204,Rotary Wing,Military Helikopter,Attack,Kamov Ka-27,Foe,,,,
+205,Rotary Wing,Military Helikopter,Attack,Kamov Ka-52,Foe,,,,
+206,Rotary Wing,Military Helikopter,Transport,CV-22B Osprey,Unkown,,,,
+207,Rotary Wing,Military Helikopter,Transport,CH-47 Chinook,Unkown,,,,Philipp
+208,Rotary Wing,Military Helikopter,Transport,EH-60 Blackhawk,Unkown,x,x,,
+209,Rotary Wing,Military Helikopter,Attack,AH-64 Apache,Unkown,,x,,Philipp
+210,Rotary Wing,Military Helikopter,Attack,AH-6 Little Bird,Unkown,,,,
+211,Rotary Wing,Military Helikopter,Transport,UH-72A Lakota (EC-635/135),Friend,x,,,Philipp
+212,Rotary Wing,Military Helikopter,Transport,AS332M1 Superpuma/ Cougar,Friend,x,,,
+213,Rotary Wing,Military Helikopter,Attack,AH-1Z Viper/ SuberCobra,Unkown,,,,
+214,Rotary Wing,Military Helikopter,Transport,CH-53E Super Stallion,Unkown,,,,
+215,Rotary Wing,Military Helikopter,Transport,VH-3D Sea King ,Unkown,,,,
+216,Rotary Wing,Military Helikopter,Transport,UH-1Y Venom,Unkown,,,,
+217,,,,Aluette,,,x,7,Guido
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+300,Fixed Wing,UAV,MALE,MQ-9B Reaper,Unkown,,,8,Guido
+301,Fixed Wing,UAV,MALE,Predator,Unkown,,,,
+302,Fixed Wing,UAV,MALE,MQ-1C Gray Eagle,Unkown,,,,
+303,Fixed Wing,UAV,Medium,ADS-95,Friend,,,,
+304,Fixed Wing,UAV,Medium,RQ-7B Shadow,Unkown,,,,
+305,Fixed Wing,UAV,HALE,RQ-4 Global Hawk,Unkown,,,,
+306,Fixed Wing,UAV,MALE,RQ-170 Sentinel ,Unkown,,,,
+307,Fixed Wing,UAV,Medium,RQ-21A Blackjack,Unkown,,,,
+,,,,,,,,,
+400,Rotary Wing,UAV,MALE,MQ-8B Firescout,Unkown,,,,
+401,Rotary Wing,UAV,Small,Octocopert,Neutral,,x,9,Guido
+403,Rotary Wing,UAV,Small,DGI Phantom,Neutral,x,,,
+,,,Small,Hexadrone,,,,,Philipp
+,,,,,,,,,
+500,Fixed Wing,Jet,Airliner,A-330,Neutral,x,x,10,Philipp
+501,Fixed Wing,Jet,Airliner,A-319/320/321,Neutral,x,,,
+502,Fixed Wing,Jet,Airliner,A-380,Neutral,x,x,,
+503,Fixed Wing,Jet,Airliner,Boing-747,Neutral,,,,
+504,Fixed Wing,Jet,Airliner,Boing-777,Neutral,,,,
+505,Fixed Wing,Jet,Airliner,Boing-Dreamliner,Neutral,,,,
+506,Fixed Wing,Jet,Airliner,CS-100,Neutral,,,,
+507,Fixed Wing,Jet,Business Jet,C-21 Learjet,Neutral,,,11,Guido
+508,Fixed Wing,Jet,Business Jet,C-20 Gulfstream,Neutral,,,,
+509,Fixed Wing,Jet,Business Jet,C-37Gulfstream,Neutral,,,,
+510,Fixed Wing,Jet,Business Jet,C-38 Gulfstream,Neutral,,,,
+511,Fixed Wing,Propeller,Leasure Plane,Piper P-28,Neutral,x,,,
+512,Fixed Wing,Propeller,Leasure Plane,Cessna 182P Skylane,Neutral,x,x,12,Guido
+513,Fixed Wing,Propeller,Leasure Plane,PC-12,Neutral,,,13,Guido
+514,Fixed Wing,Propeller,Training,PC-7,Friend,,,,
+515,Fixed Wing,Propeller,Training,PC-9,Friend,,,,
+516,Fixed Wing,Propeller,Training,PC-21,Friend,,,,
+517,Fixed Wing,Propeller,Transport,PC-6,Friend,,,,
+518,Fixed Wing,Jet,Business Jet,Falcon 900 EX,Friend,,,,
+,,,,,,,,,
+600,Rotary Wing,Helikopter,SAR,A-109 K2 (REGA),Neutral,,,,
+601,Rotary Wing,Helikopter,SAR,EC-145 (REGA),Neutral,,,,
+602,Rotary Wing,Helikopter,Utility,BEL 206,Neutral,,x,14,Guido
+603,Rotary Wing,Helikopter,Utility,SA365 Dauphin,Neutral,,,,
+,,,,MD900 Explorer,Neutral,,x,,Philipp
+,,,,Bellranger,Neutral,,x,,Philipp
+,,,,,,,,,
+1000,Missile,Subsonic,LACM,BGM-109 Tomahawk (TLAM),Foe,,x,15,Guido
+1001,Missile,Subsonic,LACM,Taurus,Foe,,x,,
+1002,Missile,Subsonic,LACM,Storm Shadow / SCALP,Foe,,,,
+1003,Missile,Subsonic,LACM,AGM-84 (SLAM-ER),Foe,,,,
+1004,Missile,Subsonic,LACM,AGM-86 (CALCM),Foe,,,,
+1005,Missile,Subsonic,LACM,JASSM,Foe,,,,
+1006,Missile,Subsonic,LACM,Kh-101,Foe,,,,
+1007,Missile,Subsonic,SSM,Exocet,Foe,,,,
+1008,Missile,Subsonic,SSM,Harpoon,Foe,,,,
+1009,Missile,Subsonic,AGM,AGM-65 Maverick,Foe,,x,16,Guido
+1010,Missile,Supersonic,LACM,P-800 Oniks,Foe,,,,
+1011,Missile,Supersonic,LACM,BrahMos-I,Foe,,,,
+1012,Missile,Supersonic,LACM,3M54 Klub (KALIBR),Foe,,,,
+1013,Missile,Supersonic,HARM,AGM-88,Foe,,,,
+1014,Bomb,Subsonic,PGM,GBU-21 (JDAM),Foe,,x,,
+1015,Bomb,Subsonic,PGM,GBU-21 (JDAM),Foe,,x,,
+1016,Bomb,Subsonic,PGM,GBU-28 (JDAM),Foe,,x,,
+1017,Bomb,Subsonic,PGM,GBU-39 (SDB),Foe,,,,
+1018,RAM,Subsonic,Shell,60 mm,Unkown,,x,,
+1019,RAM,Subsonic,Shell,81 mm,Unkown,x,x,17,Guido
+1020,RAM,Subsonic,Shell,120 mm,Unkown,,,18,Guido
+1021,RAM,Subsonic,Shell,115 mm,Unkown,,,,
+1022,RAM,Subsonic,Rocket,107 mm,Foe,x,x,19,Guido
+1023,RAM,Subsonic,Rocket,227 mm,Foe,,,,
+1024,,,,RAM 155mm,,,,20,Guido
+1025,,,,Rocket 122mm,,,,21,Guido
+1026,,,,AS-17 Krypton,,,,22,Guido
+1027,,,,KAB-500,,,,23,Guido
+1028,,,,9M79 Totschka,,,,24,Guido
